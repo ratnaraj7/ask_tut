@@ -1,8 +1,8 @@
-- [] Auth
-    - [] Google Auth
-    - [] Facebook Auth
-    - [] Logout
+- [ ] Auth
+    - [ ] Google Auth
+    - [ ] Facebook Auth
+    - [ ] Logout
 
-- [] CRUD Post
-- [] Like/Dislike on Post
-- [] Comment on Post
+- [ ] CRUD Post
+- [ ] Like/Dislike on Post
+- [ ] Comment on Post
