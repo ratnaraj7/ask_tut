@@ -1,0 +1,13 @@
+{% extends "base.html" %}
+
+{% block head %}
+<title>this is title</title>
+{% endblock %}
+
+{% block body %}
+{% let btn = primary_btn.clone() %}
+{% include "components/ui/button.html" %}
+{% let btn = secondary_btn.clone() %}
+{% include "components/ui/button.html" %}
+{% include "components/ui/card.html" %}
+{% endblock %}
